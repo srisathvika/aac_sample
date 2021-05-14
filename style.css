@@ -1,0 +1,93 @@
+body h1{
+	color:YELLOW;
+	font-size:19px;
+	margin:10px;
+	margin:60px;
+	padding:5px;
+
+}
+
+#main-header{
+	background-color:#ADD8E6;
+
+}
+#navbar{
+	background-color:#333;
+	color:#fff; 
+
+}
+#navbar ul {
+	padding:10px;
+	list-style:none ;
+      
+}
+#navbar li{
+	display:inline;
+}
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:10px;
+}
+#showcase h1{
+	text-align:center;
+	color:grey;
+	font-size:35px;
+
+}
+#showcase{
+	
+	margin:auto;
+	overflow:hidden;
+}
+#showcase{
+	background-image:url('../images/logo.png');
+	background-position: center ;
+	background-repeat: no-repeat;
+	 min-height:500px;
+
+	margin-bottom:10px;
+	text-align: center
+}
+#main-header{
+	background-image:url('../images/griet.png');
+	background-position:left;
+	background-repeat: no-repeat;
+	min-height:50px;
+	min-width:50px;
+
+}
+#main-footer{
+	text-align:center;
+	background-color:#F8EFCE;
+
+
+}
+#main-footer h1{
+	font-size:50px;
+	color: black;
+	padding:10px;
+	font-family:helvetica;
+
+}
+#main-footer h3{
+	color:grey;
+	padding:5px;
+	font-family:helvetica;
+
+}
+#last-footer{
+	text-align:center;
+	background-color:#ADD8E6;
+	color:black;
+	font-family:Arial;
+}
+.xyz ul{
+	list-style:none;
+}
+#main-footer button{
+	background-color:grey;
+	color:white;
+	border-radius:5px;
+}
